@@ -1,0 +1,4 @@
+Flask==2.3.3
+numpy==1.25.2
+matplotlib==3.8.0
+opencv-python-headless==4.8.0.76
